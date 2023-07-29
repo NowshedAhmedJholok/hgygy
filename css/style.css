@@ -1,0 +1,34 @@
+body{
+    background-color: #0b141d;
+}
+#nav{
+    text-align: center;
+    padding: 5px 0px;
+}
+#nav h3{
+    color: #ffffff;
+}
+#site i{
+    font-size: 40px;
+}
+#site i.fa-google{
+    color: rgb(233, 178, 178);
+}
+#site i.fa-youtube-play{
+    color: rgb(243, 15, 15);
+}
+#site i.fa-spotify{
+    color: rgb(38, 247, 55);
+}
+#site i.fa-twitter{
+    color: rgb(8, 159, 247);
+}
+#site i.fa-quora{
+    color: rgb(236, 49, 49);
+}
+#site i.fa-pinterest-square{
+    color: rgb(204, 30, 30);
+}
+#site i.fa-linkedin{
+    color: rgb(21, 114, 236);
+}
